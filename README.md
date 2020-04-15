@@ -1,6 +1,4 @@
-# flutterdashboard01
-
-This project is a starting point for me to study Flutter application development.
+# Flutter Dashboard 01
 
 ## Getting Started
 
